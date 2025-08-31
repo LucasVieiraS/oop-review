@@ -5,11 +5,7 @@ Each pillar is explained in two layers:
 - **Feynman-style analogy** (simple, "teach like I'm 5")
 - **Technical explanation + Java example**
 
----
-
 ## The Four Pillars of OOP (in order)
-
----
 
 ### 1. Encapsulation
 
