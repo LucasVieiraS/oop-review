@@ -1,7 +1,7 @@
-package inheritance;
+package implementation;
 
 import utils.Money;
-import utils.Wallet;
+import inheritance.Wallet;
 
 public interface PaymentMethod {
     Boolean processPayment(Wallet wallet, Money money);

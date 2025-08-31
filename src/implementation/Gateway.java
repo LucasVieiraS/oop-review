@@ -1,7 +1,7 @@
-package inheritance;
+package implementation;
 
 import utils.Money;
-import utils.Wallet;
+import inheritance.Wallet;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

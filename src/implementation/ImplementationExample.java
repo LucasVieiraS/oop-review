@@ -1,13 +1,13 @@
-package inheritance;
+package implementation;
 
 import utils.Money;
-import utils.Wallet;
+import inheritance.Wallet;
 
 // Idea: Reuse code and model “is-a” relationships.
 // Why: Base class defines common behavior, subclasses specialize.
 // In this example, the inheritance happens in CreditCard and DebitCard, inheriting from PaymentMethod.
-public class Inheritance {
-    public static void runInheritance() {
+public class ImplementationExample {
+    public static void run() {
         System.out.println("Inheritance - Payment Gateway example:");
 
         Gateway paymentGateway = new Gateway();
